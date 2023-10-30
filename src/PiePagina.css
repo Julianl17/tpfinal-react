@@ -1,0 +1,24 @@
+.pie{
+    background-color: #00A5CF;
+}
+.contenedor-pie{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #FFFFFF;
+    padding: 20px 30px;
+    margin-top: 10%;
+}
+.contenedor-iconos a{ 
+    
+    margin: 0px 15px;
+}
+@media (max-width: 768px) {
+    .contenedor-pie {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contenedor-iconos a {
+        margin: 10px 0;}
+}

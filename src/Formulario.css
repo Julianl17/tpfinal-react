@@ -1,0 +1,52 @@
+.formulario {
+
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px 40px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+
+.campoComentario {
+    width: 400px;
+    display: block;
+    border: none;
+    height: 100px;
+    resize: none;
+    border: 5px;
+
+
+}
+
+.campoNombre {
+    border: none;
+    width: 400px;
+    display: block;
+    margin-bottom: 10px;
+    border: 5px;
+
+}
+
+button {
+    background-color: #0077B5;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 400px;
+}
+.txtComentario{
+    text-align: center;
+}
+.txtComentario2{
+    text-align: center;
+}
+.cajaComentarios{
+    width: 500px;
+    margin: auto;
+    background-color: #f90;
+    border-radius: 5px;
+}
