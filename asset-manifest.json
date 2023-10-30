@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tpfinal-react/static/css/main.399137c1.css",
+    "main.js": "/tpfinal-react/static/js/main.afbad3a3.js",
+    "index.html": "/tpfinal-react/index.html",
+    "main.399137c1.css.map": "/tpfinal-react/static/css/main.399137c1.css.map",
+    "main.afbad3a3.js.map": "/tpfinal-react/static/js/main.afbad3a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.399137c1.css",
+    "static/js/main.afbad3a3.js"
+  ]
+}
